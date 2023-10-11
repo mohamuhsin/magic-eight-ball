@@ -32,3 +32,6 @@ If the randomNumber is 0, then save an answer to the eightBall variable; if rand
 #8 Write a console.log() to print the Magic Eight Ball’s answer, the value of the eightBall variable.
 
 #9 Run your program a few times to see random results appear in the console!
+
+# Note
+After you have completed the tasks, push your code to github!
