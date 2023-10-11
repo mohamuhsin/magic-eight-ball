@@ -30,3 +30,5 @@ Create another variable, and name it randomNumber. Set it equal to this expressi
 If the randomNumber is 0, then save an answer to the eightBall variable; if randomNumber is 1, then save the next answer, and so on. If you’re feeling creative, make your own responses!
 
 #8 Write a console.log() to print the Magic Eight Ball’s answer, the value of the eightBall variable.
+
+#9 Run your program a few times to see random results appear in the console!
