@@ -15,4 +15,6 @@ If the user wants, they can enter their name in between the quotation marks.
 
 Create another variable, and name it randomNumber. Set it equal to this expression, which uses two methods (Math.floor() and Math.random()) from the Math library.
 
+#6 Create one more variable named eightBall, and set it equal to an empty string. We will save a value to this variable in the next steps, depending on the value of randomNumber.
+
 
